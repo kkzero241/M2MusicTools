@@ -2,7 +2,7 @@
 This is a set of utilities made for dumping and importing music into Metroid II: Return of Samus.\
 The script m2musdump.py extracts the music data as assembly code.\
 The script patchsong.bat automatically handles writing a song back into the ROM.\
-Writing a song back requires a properly set-up [RGBDS](https://github.com/rednex/rgbds/releases|RGBDS).\
+Writing a song back requires a properly set-up [RGBDS](https://github.com/rednex/rgbds/releases).\
 Info on how the music code works can be seen commented in macros.asm.
 
 QUICK TIPS:\
